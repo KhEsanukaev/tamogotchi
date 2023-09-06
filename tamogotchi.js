@@ -85,4 +85,3 @@ const tamagotchi = {
   tamagotchi.play();
   tamagotchi.getStatus(); // Проверить игру
   
-  tamagotchi.checkDeath(); // Симуляция смерти
